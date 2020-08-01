@@ -6,5 +6,9 @@ public class BookA_Class {
 System.out.println("test");
         // lets play cahut
 
+        
+        
+System.out.println("test");
+        // lets play cahut
     }
 }
