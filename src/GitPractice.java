@@ -4,6 +4,9 @@ public class GitPractice {
         System.out.println("add it to github");
         System.out.println("ebrahim");
 
+System.out.println("add it to github");
+        System.out.println("ebrahim");
+
 
 
     }
